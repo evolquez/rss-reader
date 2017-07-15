@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RssReader</string>
+    <string name="rss_diario_libre">https://www.diariolibre.com/rss/portada.xml</string>
+    <string name="rss_listin_diario">https://www.listindiario.com/rss/portada</string>
+    <string name="rss_el_nacional">https://www.elnacional.com.do/feed/</string>
+    <string name="please_wait">Cargando noticias, por favor espere...</string>
+    <string name="news_image">News image</string>
+</resources>
